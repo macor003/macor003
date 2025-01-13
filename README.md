@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @macor003
 - 👀 I’m interested in Java, .NET, Python and Cloud Architecture (AWS, Azure and GCP) 
-- 🌱 I’m currently learning Go and AWS Solution Architect Associate 
+- 🌱 I’m currently learning Angular 19 and AWS Solution Architect Associate 
 - 💞️ I’m looking to collaborate on Java and .NET Projects
 - 📫 How to reach me Twitter @MarioOrtega003
 
