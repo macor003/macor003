@@ -11,7 +11,7 @@
 
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/10482246/206564791-9f9ed771-ff03-4fe0-9057-ee596fc6dc8a.png)
 
-https://www.codewars.com/users/macor003/badges/large
+![code-wars](https://www.codewars.com/users/macor003/badges/large)
 
 <!---
 macor003/macor003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
